@@ -88,7 +88,7 @@ class StarlinkCard extends HTMLElement {
   // The height of your card. Home Assistant uses this to automatically
   // distribute all cards over the available columns.
   getCardSize() {
-    return 160;
+    return 3;
   }
 }
 
