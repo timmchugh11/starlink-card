@@ -15,3 +15,4 @@ roaming: binary_sensor.starlink_roaming_mode
 stow: switch.starlink_stowed
 ```
 
+![alt text](https://github.com/timmchugh11/starlink-card/blob/main/img/Screenshot%202023-11-06%20094837.png)
